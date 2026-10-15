@@ -1,6 +1,6 @@
 public class RankingVendedores {
     public static void main(String[] args) {
-        String[] nomes = {"Ana", "Bruno", "Carlos", "Diana", "Eduardo", "Fernanda"};
+        String[] nomes = {"Renanzinho do Grau", "Julinho Guloso", "Carlinhos Arrogante", "Diana Degustadora", "Eduardinho do arranha", "Fernandinha da local"};
         double[] vendas = {12000.50, 8500.00, 23000.00, 15400.90, 9100.00, 31000.20};
 
         for (int i = 0; i < vendas.length - 1; i++) {
